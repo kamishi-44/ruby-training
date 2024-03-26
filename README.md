@@ -1,1 +1,1 @@
-# ruby-traning
+# ruby-training
